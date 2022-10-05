@@ -1,0 +1,1 @@
+Executar <code>cargo build</code> pra buildar o projeto, <code>cargo run</code> pra executar o projeto.
